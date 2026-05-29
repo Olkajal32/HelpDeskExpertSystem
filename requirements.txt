@@ -1,0 +1,10 @@
+# requirements.txt - Help Desk Expert System
+# No external packages required.
+# Uses only Python standard library:
+#   - tkinter  (GUI - built into Python on Windows and macOS)
+#   - sys      (built-in)
+#
+# Python version required: 3.8 or higher
+#
+# Linux users: install tkinter separately with:
+#   sudo apt-get install python3-tk
